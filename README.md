@@ -1,0 +1,1 @@
+**Page Object** ![example workflow](https://github.com/TanyaDRO/2.4_Page_Object/actions/workflows/gradle.yml/badge.svg)
